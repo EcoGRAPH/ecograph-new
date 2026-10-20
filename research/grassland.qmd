@@ -1,0 +1,33 @@
+---
+title: "Grassland Conservation"
+description: "Drivers and impacts of cropland expansion"
+image: "../images/forest_small.jpg"
+order: 9
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+The prairies of North America are among the most threatened terrestrial ecosystems on the continent. Increasing corn and soybean production has led to substantial conversion of grasslands to row crop agriculture at the western edge of the U.S. Corn Belt in North Dakota and South Dakota. Much of this change is occurring in the Prairie Pothole Region, which has a high density of shallow wetlands and provides critical habitat for numerous migratory bird species. Grasslands provide multiple ecosystem services, including the maintenance of pollinator communities, long-term carbon sequestration, prevention of soil and nutrient loss, and protection of water quality. Loss and fragmentation of grassland cover reduce the amount and quality of habitat for a variety of insects, amphibians, and birds. The EcoGRAPH group uses satellite remote sensing and geospatial analysis to quantify patterns of grassland loss throughout the region as well as the drivers and ecological impacts of these changes.
+
+We documented more than 500,000 ha of grassland loss in the western Corn Belt between 2007 and 2011 ([Wright and Wimberly, 2013](#grass-refs)). Although most of the converted grasslands were former croplands enrolled in the conservation reserve program, nearly 20% were undisturbed native grasslands ([Wimberly et al. 2017](#grass-refs)). Larger farms, younger farm operators, higher levels of farm income, higher proportions of rented croplands, and marginal yields were associated with higher rates of cropland expansion and grassland conversion. In eastern South Dakota, the remaining native grasslands are highly fragmented, with major habitat concentrations connected by narrow corridors of “stepping stone” patches ([Wimberly et al. 2018](#grass-refs)).
+
+Another widspread threat to grasslands in the Great Plains is encroachment by woody plants, including eastern red cedar (*Juniperus virginiana*). We have implemented novel methods for rapid assessment of eastern red cedar cover using satellite remote sensing ([Kaskie et al. 2019](#grass-refs)) and developed a modeling approach for mapping low density stands where red cedar is currently invading ([Kaskie et al. 2022](#grass-refs)). These techniques can help to quantify the extent of grasslands impacted by red cedar enroachment and target areas of recent spread for proactive management.
+
+### References {#grass-refs}
+
+- Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2022. [Predictive mapping of low-density juniper stands in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S1550742422000367). Rangeland Ecology & Management 83: 81-90.
+- Kaskie, K. D., M. C. Wimberly, and P. J. Bauman. 2019. [Rapid assessment of juniper distribution in prairie landscapes of the northern Great Plains](https://www.sciencedirect.com/science/article/pii/S0303243419306294). International Journal of Applied Earth Observation and Geoinformation 83: 101946.
+- Wimberly, M. C., D. M. Narem, P. J. Bauman, B. T. Carlson, and M. A. Ahlering. 2018. [Grassland connectivity in fragmented agricultural landscapes of the north-central United States](https://www.sciencedirect.com/science/article/pii/S0006320717311308). Biological Conservation 217: 121-130.
+- Wimberly, M. C., L. L. Janssen, D. A. Hennessy, M. Luri, N. M. Chowdhury, and H. Feng. 2017. [Cropland expansion and grassland loss in the eastern Dakotas: New insights from a farm-level survey](https://www.sciencedirect.com/science/article/pii/S0264837716310857). Land Use Policy 63: 160-173.
+- Wright, C. K., and M. C. Wimberly. 2013. [Recent land use change in the western Corn Belt threatens grasslands and wetlands](http://www.pnas.org/content/110/10/4134). Proceedings of the National Academy of Sciences of the United States of America 110: 4134-4139.

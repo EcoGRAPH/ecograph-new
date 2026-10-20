@@ -1,0 +1,32 @@
+---
+title: "Landscape Epidemiolgoy"
+description: "Landscape patterns and infectious diseases"
+image: "../images/clinic_small.jpg"
+order: 2
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+Land cover encompasses the biophysical characteristics of the Earth’s surface, whereas land use describes the human activities occurring on the landscape. Vegetation, hydrology, and built-up areas affect habitat suitability for disease-transmitting vectors and reservoir hosts. Land use associated with urbanization, agriculture, and resource extraction fragments natural habitats and affects human exposure to vectors, hosts, and pathogens. Land cover also modifies microclimate and can create refugia that allow vector and host species to persist in a climate that would otherwise be unsuitable.
+
+In the northern Great Plains of the United States, where *Culex tarsalis* is the primary vector of WNV, incidence is highest in rural valleys dominated by grasslands and lowest in cities and in mountainous regions covered by forests ([Chuang et al., 2012](#land-refs); [Hess et al., 2018](#land-refs)). In the Amhara region of Ethiopia, malaria incidence from 2007-2009 was highest in districts with extensive wetland cover ([Midekisa et al. 2014](#land-refs)). A more localized study of malaria patterns within four districts found that incidence was highest in areas with low vegetation cover and was associated with the density and spatial aggregation of human settlements ([McMahon et al. 2021](#land-refs)). These results show that land cover effects on mosquito-borne disease transmission are pervasive across different transmission systems in diverse landscapes, but are contingent upcon the scale of analysis and the local environmental context.
+
+### References {#land-refs}
+
+- McMahon, A., A. Mihretie, A. A. Ahmed, M. Lake, W. Awoke, and M. C. Wimberly. 2021. [Remote sensing of environmental risk factors for malaria in different geographic contexts](https://ij-healthgeographics.biomedcentral.com/articles/10.1186/s12942-021-00282-0). International Journal of Health Geographics 20: 28.
+- Hess, A., J. K. Davis, and M. C. Wimberly. 2018. [Identifying environmental risk factors and mapping the distribution of West Nile virus in an endemic region of North America](https://doi.org/10.1029/2018GH000161). GeoHealth 2: 395-409.
+- Midekisa, A., G. B. Senay, and M. C. Wimberly. 2014. [Multi-sensor Earth Observations to Characterize Wetlands and Malaria Epidemiology in Ethiopia](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2014WR015634). Water Resources Research 50: 8791-8806.
+- Chuang, T., C. W. Hockett, L. Kightlinger, and M. C. Wimberly. 2012. [Landscape-level spatial patterns of West Nile virus risk in the northern Great Plains](http://www.ajtmh.org/content/journals/10.4269/ajtmh.2012.11-0515). American Journal of Tropical Medicine and Hygiene 86: 724-731.
+
+------------------------------------------------------------------------

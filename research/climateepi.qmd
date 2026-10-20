@@ -1,0 +1,35 @@
+---
+title: "Climate Epidemiology"
+description: "Climate variation and infectious diseases"
+image: "../images/clinic_small.jpg"
+order: 1
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+Individual weather events, short-term climate variability, and long-term climate change all influence human health. An important pathway for these effects is through environmentally sensitive infectious diseases caused by water-borne, vector-borne, and zoonotic pathogens. Geographic patterns of climate limit the distributions of vector and host species. Seasonal and interannual climate variations influence the timing and abundance of vector and host populations. Climate-driven shifts in the hydrological cycle cause flooding and drought, both of which can increase transmission of water-borne pathogens. The effects of climate change on infectious disease risk depend on the biological characteristics of the species involved and the local physical and social environments in which transmission occurs.
+
+We study the effects of climate variation on West Nile virus (WNV) in the United States and malaria in Ethiopia and India. During the 2003 WNV outbreak in the northern Great Plains, the highest incidence occurred in locations with warmer temperatures and intermediate levels of precipitation ([Wimberly et al. 2008](#weather-refs)). Subsequent outbreaks occurred in years with higher than usual temperatures during the transmission season and the preceding winter ([Wimberly et al. 2014](#weather-refs)). Time series modeling studies in South Dakota and Louisiana have identified strong temperature effects on seasonal and interannual patterns of WNV cases and have also highlighed influences of precipitation, atmospheric humidity, and windspeed ([Davis et al. 2018](#weather-refs), [Bump et al. 2025](#weather-refs). In Ethiopia, warmer temperatures were associated with malaria outbreaks in wetter districts, whereas rainfall and moisture indices had stronger influences in drier districts ([Midekisa et al. 2015](#weather-refs)). These associations provide the basis for developing timeseries models that predict future disease risk based on lagged responses to weather events ([Midekisa et al. 2012](#weather-refs), [Davis et al. 2019](#weather-refs)).
+
+### References {#weather-refs}
+
+- Bump, E. R., Bharadwaja, A., Simonson, S., Ortega, E., & Wimberly, M. C. (2025). [Integrating wind speed into climate‐based West Nile virus models: A comparative analysis in two distinct regions](https://doi.org/10.1029/2024GH001320). GeoHealth, 9, e2024GH001320.
+- Davis, J. K., Gebrehiwot, T., Worku. M., Awoke, W., Mihretie, A., Nekorchuk, D., and M. C. Wimberly. 2019. [A genetic algorithm for identifying spatially-varying environmental drivers in a malaria time series model](https://www.sciencedirect.com/science/article/pii/S136481521930129X). Environmental Modelling and Software 119: 275-284.
+- Davis, J. K., G. P. Vincent, M. B. Hildreth, L. Kightlinger, C. Carlson, and M. C. Wimberly. 2018. [Improving the prediction of arbovirus outbreaks: a comparison of climate-driven models for West Nile virus in an endemic region of the United States](https://www.sciencedirect.com/science/article/pii/S0001706X18300512). Acta Tropica 185: 242-250.
+- Midekisa A., B. Beyene, A. Mihretie, E. Bayabil, M. C. Wimberly. 2015. [Seasonal associations of climatic drivers and malaria in the highlands of Ethiopia](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0954-7). Parasites & Vectors 8: 339.
+- Wimberly, M. C., A. Lamsal, P. Giacomo, and T. Chuang. 2014. [Regional variation of climatic influences on West Nile virus outbreaks in the United States](http://www.ajtmh.org/content/journals/10.4269/ajtmh.14-0239). American Journal of Tropical Medicine and Hygiene 91: 677-684.
+- Midekisa, A., G. Senay, G. M. Henebry, P. Semuniguse, and M. C. Wimberly. 2012. [Remote sensing-based time series models for malaria early warning in the highlands of Ethiopia](https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-11-165). Malaria Journal 11: 165.
+- Wimberly, M. C., M. B. Hildreth, S. P. Boyte, E. Lindquist, and L. Kightlinger. 2008. [Ecological niche of the 2003 West Nile virus epidemic in the northern Great Plains of the United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0003744). PLoS One 3: e3744.
+
+------------------------------------------------------------------------

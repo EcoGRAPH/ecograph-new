@@ -1,0 +1,37 @@
+---
+title: "Mosquito Ecology"
+description: "Habitat associations of mosquito vectors"
+image: "../images/mosquito_small.jpg"
+order: 4
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <style>
+           #title-block-header .title {
+            font-size: 3.5rem !important; /* Increased from default */
+          }
+          #title-block-header .description {
+            font-size: 1.8rem !important; /* Increased from default */
+            margin-top: 10px;             /* Adds spacing below the title */
+          }
+          </style>
+---
+
+Mosquito abundance, behavior, and transmission potential are sensitive to multiple environmental factors. Larvae require suitable aquatic habitats, and adults use a variety of natural and human-created structures for resting habitats. Because mosquitoes are small ectotherms, their body temperature and associated vital rates are dependent on ambient temperature. Further, their moisture relations are strongly influenced by thermal conditions and atmospheric humidity ([Brown et al. 2023](#mosquito-refs), [Huxley et al. 2026](#mosquito-refs)). These environmental relationships vary depending on the mosquito species and the environmental context.
+
+In South Dakota, *Aedes vexans*, a floodwater mosquito, is associated with webland habitats and increases in abundance when heavy rainfall results in widespread surface water ([Chuang et al. 2011](#mosquito-refs); [Chuang et al. 2012](#mosquito-refs)). In contrast, *Culex tarsalis*, an important vector of West Nile virus, is associated with grassland habitats and has a weak relationship with rainfall and a much stronger. relationship with temperature. In Oklahoma, *Culex quinquefasciatus* is most abundant in landscapes with high densities of buildings and roads, whereas *Aedes albopictus* is most abundant in landscapes with low tree cover ([McMahon et al. 2022](#mosquito-refs)).
+
+the abundances of *Culex quinquefasciatus* and *Aedes albopictus* are highest on warm, humid days with little precipitation in the previous two weeks . In Georgia, variation in land cover creates distinctive microclimates that influence the mosquito reproduction, growth, and survival as well as transmission and development rates of mosquito-borne pathogens, creating localized "hot spots" of high disease transmission potential ([Wimberly et al. 2020](#mosquito-refs)).
+
+Although most research on weather and mosquitoes uses standard meteorological variables such as temperature, humidity, and precipitation, other variables such as drought indices, soil moisture, and solar radiation may have stronger associations with mosquito abundance ([Bump and Wimberly, 2026](#mosquito-refs)). Similarly, remotely sensed environmental measurements from Earth observing satellites, such as surface water cover, vegetation indices, and land surface temeprature, have been shown to perform as well as or better than ground-based meteorological measurements as predictors of mosquito abundance ([Chuang et al. 2012](#mosquito-refs); [McMahon et al. 2022](#mosquito-refs)).Our research emphasizes the importance of determining the specific hydrometeorological factors that influence mosquito biology and measuring them at scales that are relevant for mosquito ecology.
+
+### References {#mosquito-refs}
+
+- Bump, R. R., and M. C. Wimberly. 2026. [Hydrometeorological drivers of mosquito (Diptera: Culicidae) abundance in an urbanized region of central Oklahoma](https://academic.oup.com/jme/article/63/4/tjag102/8732329). Journal of Medical Entomology 63: tjag102.
+- Huxley, P. J., J. J. Brown, B. St. Laurent, B. Johnson, O. Y. Cheung, A. Asamoah, B. D. Hollingsworth, E. R. Bump, M. C. Wimberly, M. Pascual, L. R. Johnson, C. C. Murdock. 2026. [Beyond temperature: Relative humidity systematically shifts juvenile thermal performance and projected population growth in a malaria vector](https://doi.org/10.1111/ele.70416). Ecology Letters, 29:e70416.
+- Brown, J. J., M. Pascual, M. C. Wimberly, L. R. Johnson, and C. C. Murdock. 2023. [Humidity – The overlooked variable in the thermal biology of mosquito-borne disease](https://onlinelibrary.wiley.com/doi/10.1111/ele.14228). Ecology Letters 26: 1029-1049.
+- McMahon, A., C. M. B. Franca, and M. C. Wimberly. 2022. [Comparing satellite and ground-based measurements of environmental suitability for vector mosquitoes in an urban landscape](https://academic.oup.com/jme/article/59/6/1936/6747053). Journal of Medical Entomology 59: 1936-1946.
+- Wimberly, M. C., J. K. Davis, M. V. Evans, A. Hess, P. M. Newberry, N. Solano-Asamoah, C. C. Murdock. 2020. [Land cover affects microclimate and temperature suitability for arbovirus transmission in an urban landscape](https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008614). PLoS Neglected Tropical Diseases 14(9): e0008614.
+- Chuang, T., G. M Henebry, J. S. Kimball, D.L. VanRoekel-Patton, M. B. Hildreth, and M. C. Wimberly. 2012. [Satellite microwave remote sensing for environment modeling of mosquito population dynamics](https://www.sciencedirect.com/science/article/pii/S0034425712002921). Remote Sensing of Environment 125: 147-156.
+- Chuang, T. M. B. Hildreth, M. B., D. L. VanRoekel, and M. C. Wimberly. 2011. [Weather and land cover influences on mosquito populations in Sioux Falls, South Dakota](http://www.bioone.org/doi/abs/10.1603/ME10246). Journal of Medical Entomology 48: 669-679.
