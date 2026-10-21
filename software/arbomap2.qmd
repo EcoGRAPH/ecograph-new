@@ -1,7 +1,7 @@
 ---
 title: "ArboMAP 2.0"
 description: "Next-generating system for West Nile virus forecasting"
-image: "../Images/mosquito_small.jpg"
+image: "../images/mosquito_small.jpg"
 order: 2
 format: 
   html:

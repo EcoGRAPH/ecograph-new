@@ -1,7 +1,7 @@
 ---
 title: "CHANGE"
 description: "Coupled Human adn Natural Geospatial Environments"
-image: "../Images/Colorado_WUI.JPG"
+image: "../images/Colorado_WUI.JPG"
 order: 6
 format: 
   html:
