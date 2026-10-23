@@ -1,7 +1,7 @@
 ---
 title: "Mosquito Ecology"
 description: "Habitat associations of mosquito vectors"
-image: "../images/mosquito_small.jpg"
+image: "../images/mosquito_habitat.jpg"
 order: 4
 format: 
   html:

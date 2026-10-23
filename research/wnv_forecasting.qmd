@@ -1,7 +1,7 @@
 ---
 title: "West Nile Virus Forecasting"
 description: "Predictive modeling of disease outbreaks"
-image: "../images/ethiopia_malchart_small.JPG"
+image: "../images/irrigation.jpg"
 order: 6
 format: 
   html:

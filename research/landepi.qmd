@@ -1,7 +1,7 @@
 ---
 title: "Landscape Epidemiolgoy"
 description: "Landscape patterns and infectious diseases"
-image: "../images/clinic_small.jpg"
+image: "../images/Ethiopia_landscape.jpg"
 order: 2
 format: 
   html:

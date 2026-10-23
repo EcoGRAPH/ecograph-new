@@ -1,7 +1,7 @@
 ---
 title: "Grassland Conservation"
 description: "Drivers and impacts of cropland expansion"
-image: "../images/forest_small.jpg"
+image: "../images/grassland.jpg"
 order: 9
 format: 
   html:
