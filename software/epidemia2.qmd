@@ -1,7 +1,7 @@
 ---
 title: "EPIDEMIA 2.0"
 description: "Enhanced tools for malaria early warning"
-image: "../images/IMG_1637.JPG"
+image: "../images/clinic_small.jpg"
 order: 1
 format: 
   html:

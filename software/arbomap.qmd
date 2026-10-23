@@ -1,7 +1,7 @@
 ---
 title: "ArboMAP"
 description: "West Nile virus mapping and prediction"
-image: "../images/mosquito_small.jpg"
+image: "../images/mosquito_trap.JPG"
 order: 4
 format: 
   html:

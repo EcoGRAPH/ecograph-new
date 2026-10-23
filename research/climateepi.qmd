@@ -1,7 +1,7 @@
 ---
 title: "Climate Epidemiology"
 description: "Climate variation and infectious diseases"
-image: "../images/climate_epi.jpg"
+image: "../images/climate_epi.jpeg"
 order: 1
 format: 
   html:
@@ -17,8 +17,6 @@ format:
           }
           </style>
 ---
-
-![Test image](../images/clinic_small.jpg)
 
 Individual weather events, short-term climate variability, and long-term climate change all influence human health. An important pathway for these effects is through environmentally sensitive infectious diseases caused by water-borne, vector-borne, and zoonotic pathogens. Geographic patterns of climate limit the distributions of vector and host species. Seasonal and interannual climate variations influence the timing and abundance of vector and host populations. Climate-driven shifts in the hydrological cycle cause flooding and drought, both of which can increase transmission of water-borne pathogens. The effects of climate change on infectious disease risk depend on the biological characteristics of the species involved and the local physical and social environments in which transmission occurs.
 

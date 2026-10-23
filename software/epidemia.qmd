@@ -1,7 +1,7 @@
 ---
 title: "EPIDEMIA"
 description: "Malaria early warning in Ethiopia"
-image: "../images/IMG_1637.JPG"
+image: "../images/anti_malaria.JPG"
 order: 3
 format: 
   html:
