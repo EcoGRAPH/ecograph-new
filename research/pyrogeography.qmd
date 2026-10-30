@@ -30,7 +30,7 @@ We also evaluated how forest management influences wildfire behavior and severit
 
 An important contribution of our earlier research was reconstructing historical fire regimes and old-growth forest dynamics in the Pacific Northwest. We developed the Landscape Dynamics Simulator (LADS) to investigate how wildfire shaped forest age structure before widespread logging and fire suppression ([Wimberly et al. 2000](#western-refs), [Wimberly 2002](#western-refs)). Despite the occurrence of large wildfires, simulations indicated that old-growth forests historically occupied approximately 29–52% of forested landscapes, substantially more than their contemporary extent ([Wimberly et al. 2004](#western-refs)). Subsequent improvements to LADS incorporated mixed-severity fire regimes and explored how climate change could shift forest landscapes beyond their historical range of variability ([Wimberly and Kennedy 2008](#western-refs), [Kennedy and Wimberly 2009](#western-refs), [Wimberly and Liu 2014](#western-refs)). This work established a quantitative framework for understanding historical landscape variability and evaluating the long-term consequences of forest disturbance and management.
 
-### References {western-refs#}
+### References {#western-refs}
 
 - Liu, Z., M. C. Wimberly. 2016. [Direct and indirect effects of climate change on projected future fire regimes in the western United States](https://www.sciencedirect.com/science/article/pii/S0048969715309098?via%3Dihub). Science of the Total Environment 542: 65-75.
 - Liu, Z., M. C. Wimberly. 2015. [Climatic and landscape influences on fire regimes from 1984 to 2010 in the western United States](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140839). PLoS One 10(10): e0140839.

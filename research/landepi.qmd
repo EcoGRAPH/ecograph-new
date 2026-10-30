@@ -1,6 +1,6 @@
 ---
-title: "Landscape Epidemiolgoy"
-description: "Landscape patterns and infectious diseases"
+title: "Landscape Epidemiology"
+description: "Land cover, land use, and infectious diseases"
 image: "../images/Ethiopia_landscape.jpg"
 order: 2
 format: 

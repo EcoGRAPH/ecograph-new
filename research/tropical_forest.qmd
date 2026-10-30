@@ -1,5 +1,5 @@
 ---
-title: "Wildfire and Tropical Forest Loss"
+title: "Wildfire and Tropical Forest Degradation"
 description: "Environmental change and disturbance cascades"
 image: "../images/forest_small.jpg"
 order: 7
