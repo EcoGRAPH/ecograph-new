@@ -1,7 +1,7 @@
 ---
 title: EcoGRAPH
 subtitle: Ecological and Geospatial Research and Applications in Planetary Health
-title-block-banner: images/Tana_Sunset_2009_2.jpg
+title-block-banner: images/amhara_flood.jpg
 format: 
   html:
     include-in-header:
